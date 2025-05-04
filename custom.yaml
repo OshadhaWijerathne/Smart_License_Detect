@@ -1,0 +1,7 @@
+
+    path: C:/Users/rwkos/Desktop/asd/Smart_License_Detect/dataset_after_splitting
+    train: images/train
+    val: images/val
+    nc: 1
+    names: ['driving license']
+    
